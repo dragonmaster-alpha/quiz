@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395995858851",
+    "project_id": "filltheblanks-rn",
+    "storage_bucket": "filltheblanks-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395995858851:android:fbaa6cbc53187f8c253c16",
+        "android_client_info": {
+          "package_name": "com.filltheblanks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395995858851-m6ehpfcv7fle4pe3q59dob5ahbani8p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.filltheblanks",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "395995858851-01bvd6humfb3ij3fm23um2een6srh2ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBREUlvqlFdYyVITav9WL2lv4hKoaqoRus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395995858851-01bvd6humfb3ij3fm23um2een6srh2ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
